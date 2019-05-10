@@ -1,6 +1,6 @@
 # 100DaysOfCode
 
-Day 1: May 1st, 2019
+Day 1:
 
 Today's Progress:
 Thought:
